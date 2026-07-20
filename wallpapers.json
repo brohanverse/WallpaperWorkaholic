@@ -1,4 +1,90 @@
 {
-    "categories": [],
-    "wallpapers": []
+    "categories": [
+        {
+            "id": "cat_5b4a3939",
+            "name": "Cityscapes",
+            "coverUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Cityscapes/Wallpaper Workaholic Cityscapes 3.jpg",
+            "wallpaperCount": 6
+        }
+    ],
+    "wallpapers": [
+        {
+            "id": "wp_291cf521",
+            "title": "Wallpaper Workaholic Cityscapes 3",
+            "description": "Wallpaper Wallpaper Workaholic Cityscapes 3 dalam kategori Cityscapes",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Cityscapes/Wallpaper Workaholic Cityscapes 3.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Cityscapes/Wallpaper Workaholic Cityscapes 3.jpg",
+            "category": "Cityscapes",
+            "tags": [
+                "cityscapes",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_282e1e2a",
+            "title": "Wallpaper Workaholic Cityscapes With Headset",
+            "description": "Wallpaper Wallpaper Workaholic Cityscapes With Headset dalam kategori Cityscapes",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Cityscapes/Wallpaper Workaholic Cityscapes With Headset.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Cityscapes/Wallpaper Workaholic Cityscapes With Headset.jpg",
+            "category": "Cityscapes",
+            "tags": [
+                "cityscapes",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_56c9ba0f",
+            "title": "Wallpaper Workaholic Cityscapes Future",
+            "description": "Wallpaper Wallpaper Workaholic Cityscapes Future dalam kategori Cityscapes",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Cityscapes/Wallpaper Workaholic Cityscapes Future.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Cityscapes/Wallpaper Workaholic Cityscapes Future.jpg",
+            "category": "Cityscapes",
+            "tags": [
+                "cityscapes",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_cabe93bf",
+            "title": "Wallpaper Workaholic Cityscapes Sofa",
+            "description": "Wallpaper Wallpaper Workaholic Cityscapes Sofa dalam kategori Cityscapes",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Cityscapes/Wallpaper Workaholic Cityscapes Sofa.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Cityscapes/Wallpaper Workaholic Cityscapes Sofa.jpg",
+            "category": "Cityscapes",
+            "tags": [
+                "cityscapes",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_ed3df34f",
+            "title": "Wallpaper Workaholic Cityscapes",
+            "description": "Wallpaper Wallpaper Workaholic Cityscapes dalam kategori Cityscapes",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Cityscapes/Wallpaper Workaholic Cityscapes.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Cityscapes/Wallpaper Workaholic Cityscapes.jpg",
+            "category": "Cityscapes",
+            "tags": [
+                "cityscapes",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_f048e161",
+            "title": "Wallpaper Workaholic Cityscapes 2",
+            "description": "Wallpaper Wallpaper Workaholic Cityscapes 2 dalam kategori Cityscapes",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Cityscapes/Wallpaper Workaholic Cityscapes 2.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Cityscapes/Wallpaper Workaholic Cityscapes 2.jpg",
+            "category": "Cityscapes",
+            "tags": [
+                "cityscapes",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        }
+    ]
 }
