@@ -11,6 +11,12 @@
             "name": "Coffee Break",
             "coverUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Coffee Break/Wallpaper Workaholic Coffee Break Dekstop.jpg",
             "wallpaperCount": 4
+        },
+        {
+            "id": "cat_d2645fff",
+            "name": "Minimalist",
+            "coverUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Minimalist/Wallpaper Workaholic Minimalist 5.jpg",
+            "wallpaperCount": 5
         }
     ],
     "wallpapers": [
@@ -140,6 +146,71 @@
             "category": "Coffee Break",
             "tags": [
                 "coffee break",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_f0b69281",
+            "title": "Wallpaper Workaholic Minimalist 5",
+            "description": "Wallpaper Wallpaper Workaholic Minimalist 5 dalam kategori Minimalist",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Minimalist/Wallpaper Workaholic Minimalist 5.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Minimalist/Wallpaper Workaholic Minimalist 5.jpg",
+            "category": "Minimalist",
+            "tags": [
+                "minimalist",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_fca95bea",
+            "title": "Wallpaper Workaholic Minimalist 3",
+            "description": "Wallpaper Wallpaper Workaholic Minimalist 3 dalam kategori Minimalist",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Minimalist/Wallpaper Workaholic Minimalist 3.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Minimalist/Wallpaper Workaholic Minimalist 3.jpg",
+            "category": "Minimalist",
+            "tags": [
+                "minimalist",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_67700c58",
+            "title": "Wallpaper Workaholic Minimalist 1",
+            "description": "Wallpaper Wallpaper Workaholic Minimalist 1 dalam kategori Minimalist",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Minimalist/Wallpaper Workaholic Minimalist 1.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Minimalist/Wallpaper Workaholic Minimalist 1.jpg",
+            "category": "Minimalist",
+            "tags": [
+                "minimalist",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_385f75e3",
+            "title": "Wallpaper Workaholic Minimalist 2",
+            "description": "Wallpaper Wallpaper Workaholic Minimalist 2 dalam kategori Minimalist",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Minimalist/Wallpaper Workaholic Minimalist 2.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Minimalist/Wallpaper Workaholic Minimalist 2.jpg",
+            "category": "Minimalist",
+            "tags": [
+                "minimalist",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_2a5590aa",
+            "title": "Wallpaper Workaholic Minimalist 4",
+            "description": "Wallpaper Wallpaper Workaholic Minimalist 4 dalam kategori Minimalist",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Minimalist/Wallpaper Workaholic Minimalist 4.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Minimalist/Wallpaper Workaholic Minimalist 4.jpg",
+            "category": "Minimalist",
+            "tags": [
+                "minimalist",
                 "wallpaper"
             ],
             "resolution": "1080x1920"
