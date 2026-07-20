@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": "minimalist",
+      "name": "Minimalist Workspace",
+      "coverUrl": "https://raw.githubusercontent.com/username/repo/main/images/cover_minimalist.webp"
+    }
+  ],
+  "wallpapers": [
+    {
+      "id": "wall_001",
+      "title": "Dark Desk Setup",
+      "description": "A clean, distraction-free environment for deep work.",
+      "categoryId": "minimalist",
+      "imageUrl": "https://raw.githubusercontent.com/username/repo/main/images/highres_001.webp",
+      "thumbnailUrl": "https://raw.githubusercontent.com/username/repo/main/images/thumb_001.webp",
+      "tags": ["dark", "desk", "macbook"],
+      "createdAt": "2026-07-20T10:00:00Z"
+    }
+  ]
+}
