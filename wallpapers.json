@@ -13,6 +13,12 @@
             "wallpaperCount": 4
         },
         {
+            "id": "cat_80932e0a",
+            "name": "Motivation",
+            "coverUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Motivation/Wallpaper Workaholic Motivation Today.jpg",
+            "wallpaperCount": 5
+        },
+        {
             "id": "cat_d2645fff",
             "name": "Minimalist",
             "coverUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Minimalist/Wallpaper Workaholic Minimalist 5.jpg",
@@ -146,6 +152,71 @@
             "category": "Coffee Break",
             "tags": [
                 "coffee break",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_d8354e02",
+            "title": "Wallpaper Workaholic Motivation Today",
+            "description": "Wallpaper Wallpaper Workaholic Motivation Today dalam kategori Motivation",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Motivation/Wallpaper Workaholic Motivation Today.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Motivation/Wallpaper Workaholic Motivation Today.jpg",
+            "category": "Motivation",
+            "tags": [
+                "motivation",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_fafb66ce",
+            "title": "Wallpaper Workaholic Motivation Success",
+            "description": "Wallpaper Wallpaper Workaholic Motivation Success dalam kategori Motivation",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Motivation/Wallpaper Workaholic Motivation Success.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Motivation/Wallpaper Workaholic Motivation Success.jpg",
+            "category": "Motivation",
+            "tags": [
+                "motivation",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_ba86cdbb",
+            "title": "Wallpaper Workaholic Motivation Dont Stop",
+            "description": "Wallpaper Wallpaper Workaholic Motivation Dont Stop dalam kategori Motivation",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Motivation/Wallpaper Workaholic Motivation Dont Stop.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Motivation/Wallpaper Workaholic Motivation Dont Stop.jpg",
+            "category": "Motivation",
+            "tags": [
+                "motivation",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_26798157",
+            "title": "Wallpaper Workaholic Motivation 1",
+            "description": "Wallpaper Wallpaper Workaholic Motivation 1 dalam kategori Motivation",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Motivation/Wallpaper Workaholic Motivation 1.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Motivation/Wallpaper Workaholic Motivation 1.jpg",
+            "category": "Motivation",
+            "tags": [
+                "motivation",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_306b3040",
+            "title": "Wallpaper Workaholic Motivation 2",
+            "description": "Wallpaper Wallpaper Workaholic Motivation 2 dalam kategori Motivation",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Motivation/Wallpaper Workaholic Motivation 2.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Motivation/Wallpaper Workaholic Motivation 2.jpg",
+            "category": "Motivation",
+            "tags": [
+                "motivation",
                 "wallpaper"
             ],
             "resolution": "1080x1920"
