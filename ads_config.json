@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "configVersion": 1,
+  "updatedAt": "2026-07-20T00:00:00Z",
+  "adsEnabled": true,
+  "maintenanceMode": false,
+  "placements": {
+    "banner_home": {
+      "enabled": true,
+      "unitId": "ca-app-pub-3940256099942544/6300978111"
+    },
+    "interstitial_download": {
+      "enabled": true,
+      "unitId": "ca-app-pub-3940256099942544/1033173712"
+    }
+  },
+  "frequency": {
+    "nativeEveryItems": 8,
+    "interstitialEveryCompletedActions": 3,
+    "interstitialMinIntervalSeconds": 90,
+    "appOpenMinIntervalSeconds": 3600
+  }
+}
