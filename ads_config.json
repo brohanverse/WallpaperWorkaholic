@@ -7,11 +7,11 @@
   "placements": {
     "banner_home": {
       "enabled": true,
-      "unitId": "ca-app-pub-3940256099942544/6300978111"
+      "unitId": "ca-app-pub-7078821477416974/7311547179"
     },
     "interstitial_download": {
       "enabled": true,
-      "unitId": "ca-app-pub-3940256099942544/1033173712"
+      "unitId": "ca-app-pub-7078821477416974/5998465506"
     }
   },
   "frequency": {
