@@ -5,6 +5,12 @@
             "name": "Cityscapes",
             "coverUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Cityscapes/Wallpaper Workaholic Cityscapes 3.jpg",
             "wallpaperCount": 6
+        },
+        {
+            "id": "cat_2429dc5e",
+            "name": "Coffee Break",
+            "coverUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Coffee Break/Wallpaper Workaholic Coffee Break Dekstop.jpg",
+            "wallpaperCount": 4
         }
     ],
     "wallpapers": [
@@ -82,6 +88,58 @@
             "category": "Cityscapes",
             "tags": [
                 "cityscapes",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_e009c440",
+            "title": "Wallpaper Workaholic Coffee Break Dekstop",
+            "description": "Wallpaper Wallpaper Workaholic Coffee Break Dekstop dalam kategori Coffee Break",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Coffee Break/Wallpaper Workaholic Coffee Break Dekstop.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Coffee Break/Wallpaper Workaholic Coffee Break Dekstop.jpg",
+            "category": "Coffee Break",
+            "tags": [
+                "coffee break",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_7899f6cd",
+            "title": "Wallpaper Workaholic Coffee Break Life",
+            "description": "Wallpaper Wallpaper Workaholic Coffee Break Life dalam kategori Coffee Break",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Coffee Break/Wallpaper Workaholic Coffee Break Life.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Coffee Break/Wallpaper Workaholic Coffee Break Life.jpg",
+            "category": "Coffee Break",
+            "tags": [
+                "coffee break",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_dad500af",
+            "title": "Wallpaper Workaholic Coffee Break Cafe",
+            "description": "Wallpaper Wallpaper Workaholic Coffee Break Cafe dalam kategori Coffee Break",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Coffee Break/Wallpaper Workaholic Coffee Break Cafe.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Coffee Break/Wallpaper Workaholic Coffee Break Cafe.jpg",
+            "category": "Coffee Break",
+            "tags": [
+                "coffee break",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_dfda34df",
+            "title": "Wallpaper Workaholic Coffee Break",
+            "description": "Wallpaper Wallpaper Workaholic Coffee Break dalam kategori Coffee Break",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Coffee Break/Wallpaper Workaholic Coffee Break.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Coffee Break/Wallpaper Workaholic Coffee Break.jpg",
+            "category": "Coffee Break",
+            "tags": [
+                "coffee break",
                 "wallpaper"
             ],
             "resolution": "1080x1920"
