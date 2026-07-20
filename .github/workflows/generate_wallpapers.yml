@@ -31,4 +31,7 @@ jobs:
           git add wallpapers.json
           # Commit hanya jika ada perubahan pada file json
           git diff --quiet && git diff --staged --quiet || git commit -m "Auto-generate wallpapers.json [skip ci]"
+          
+          # Tarik perubahan terbaru dari GitHub sebelum melakukan push untuk mencegah error rejected
+          git pull --rebase origin main
           git push
