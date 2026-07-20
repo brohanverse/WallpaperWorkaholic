@@ -13,6 +13,12 @@
             "wallpaperCount": 4
         },
         {
+            "id": "cat_ca387d0c",
+            "name": "Workspace",
+            "coverUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Workspace/Wallpaper Workaholic Workspace Dekstop.jpg",
+            "wallpaperCount": 3
+        },
+        {
             "id": "cat_80932e0a",
             "name": "Motivation",
             "coverUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Motivation/Wallpaper Workaholic Motivation Today.jpg",
@@ -152,6 +158,45 @@
             "category": "Coffee Break",
             "tags": [
                 "coffee break",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_b3c3137b",
+            "title": "Wallpaper Workaholic Workspace Dekstop",
+            "description": "Wallpaper Wallpaper Workaholic Workspace Dekstop dalam kategori Workspace",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Workspace/Wallpaper Workaholic Workspace Dekstop.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Workspace/Wallpaper Workaholic Workspace Dekstop.jpg",
+            "category": "Workspace",
+            "tags": [
+                "workspace",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_3b3f1435",
+            "title": "Wallpaper Workaholic Workspace 2",
+            "description": "Wallpaper Wallpaper Workaholic Workspace 2 dalam kategori Workspace",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Workspace/Wallpaper Workaholic Workspace 2.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Workspace/Wallpaper Workaholic Workspace 2.jpg",
+            "category": "Workspace",
+            "tags": [
+                "workspace",
+                "wallpaper"
+            ],
+            "resolution": "1080x1920"
+        },
+        {
+            "id": "wp_90f02edb",
+            "title": "Wallpaper Workaholic Workspace",
+            "description": "Wallpaper Wallpaper Workaholic Workspace dalam kategori Workspace",
+            "imageUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Workspace/Wallpaper Workaholic Workspace.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/brohanverse/WallpaperWorkaholic/main/images/Workspace/Wallpaper Workaholic Workspace.jpg",
+            "category": "Workspace",
+            "tags": [
+                "workspace",
                 "wallpaper"
             ],
             "resolution": "1080x1920"
